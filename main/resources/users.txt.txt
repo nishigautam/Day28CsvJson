@@ -1,0 +1,3 @@
+AddressBook{"firstName ="Nishi,"lastName ="Gautam,"address ="Mayur Vihar,"city="Lucknow,"state="UP,"phoneNumber="9857638299,"zipCode="783273}
+AddressBook{"firstName="Nik,"lastName="Sen,"address="Mayur Vistar,"city="Delhi,"state="UP,"phoneNumber="7829294829,"zipCode="24876}
+AddressBook{"firstName="Amina,"lastNAme="Khan,"address="Hzratgnj,"city="Lko,"state="UP,"phoneNumber="8928737426,"zipCode="36631}
