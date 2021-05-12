@@ -1,0 +1,29 @@
+[
+  {
+    "firstName": "Nishi",
+    "lastName": "Gautam",
+    "address": "Mayur",
+    "city": "Lucknow",
+    "state": "UP"
+    "phoneNumber": "9869820942",
+    "zip": 7829
+  },
+  {
+    "firstName": "Ackrmn",
+    "lastName": "Ern",
+    "address": "Yues",
+    "city": "NYC",
+    "state": "ijad"
+    "phoneNumber": "869251942",
+    "zip": 7341
+  },
+  {
+    "firstName": "Xyz",
+    "lastName": "mno",
+    "address": "Pqr",
+    "city": "abc",
+    "state": "YU"
+    "phoneNumber": "8698156082",
+    "zip": 9869
+  }
+]
