@@ -109,6 +109,10 @@ public class AddressBook {
         contactArray.remove(obj);
     }
 
+    public void addContactToList(ContactDetail contactDetail) {
+        contactArray.add(contactDetail);
+    }
+
     /**
      * uc5
      * &uc 6
